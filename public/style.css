@@ -1,0 +1,15 @@
+header{
+    background-color: black;
+    color: aliceblue;
+    padding: 5px;
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+    padding: 2px;
+    text-align: center;
+}
